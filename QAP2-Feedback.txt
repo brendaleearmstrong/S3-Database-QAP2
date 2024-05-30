@@ -1,0 +1,19 @@
+
+S3 Database QAP 2
+Author: Brenda Armstrong, SD10
+Date: Thursday, May 30, 2024
+
+1.	How many hours did it take you to complete this assessment? 
+>> I started my QAP the day that it was released (early).  In Part 1 I completed all (5) of the exercises, it took about 6 hours in total to complete (longer than I anticipated).  Part 2 took me about 2 hours in total.
+
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+>> I used DataCamp cheatsheets and lectures for normalization, I also leveraged AI via ChatGPT.
+
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class persons.)
+>> I did not discuss QAP 2 with my classments.
+
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+>> I asked (1) question to Peter regarding DB and it was to confirm if there was a postgres best practice in choosing varchar or character varying.
+
+5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you have completed this one.
+>> I would rate this a 2/10; I only found it time extensive because I completed all 5 exercises in #1.  
