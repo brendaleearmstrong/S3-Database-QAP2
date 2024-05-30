@@ -1,18 +1,18 @@
 -- User Table
 CREATE TABLE AppUser (
-    user_id SERIAL PRIMARY KEY,
+    user_id INT PRIMARY KEY,
     username VARCHAR(100) NOT NULL
 );
 
 -- EmailType Table
 CREATE TABLE EmailType (
-    email_type_id SERIAL PRIMARY KEY,
+    email_type_id INT PRIMARY KEY,
     type VARCHAR(50) NOT NULL
 );
 
 -- Email Table
 CREATE TABLE Email (
-    email_id SERIAL PRIMARY KEY,
+    email_id INT PRIMARY KEY,
     user_id INT NOT NULL,
     email VARCHAR(100) NOT NULL,
     email_type_id INT NOT NULL,
@@ -22,13 +22,13 @@ CREATE TABLE Email (
 
 -- Genre Table
 CREATE TABLE Genre (
-    genre_id SERIAL PRIMARY KEY,
+    genre_id INT PRIMARY KEY,
     genre_name VARCHAR(100) NOT NULL
 );
 
 -- Author Table
 CREATE TABLE Author (
-    author_id SERIAL PRIMARY KEY,
+    author_id INT PRIMARY KEY,
     author_name VARCHAR(100) NOT NULL
 );
 
